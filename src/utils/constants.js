@@ -105,8 +105,8 @@ export const SOCIAL_ICONS = [
 // ============================================
 export const CONTACT_INFO = {
   phone: '+250 785 599 926',
-  email: 'info@cbgagrihub.rw',
-  address: 'Gikondo, Kigali - Rwanda',
+  email: 'cr.aricenttechnology2025@gmail.com',
+  address: 'Gisenyi, Rubavu - Rwanda',
   workingHours: 'Monday - Friday, 8:00 AM - 5:00 PM',
   social: {
     facebook: 'https://facebook.com/cbgagrihub',
