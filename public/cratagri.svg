@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <!-- Background for contrast (Optional, transparent by default) -->
+  <rect width="100%" height="100%" fill="none"/>
+  
+  <g transform="translate(200, 210)">
+    <!-- Top Light Green Bulb / Seedling Element -->
+    <path d="M 0,-75 
+             C  35,-75  45,-125   0,-155 
+             C -45,-125 -35,-75    0,-75 Z" 
+          fill="#92D050" />
+    
+    <!-- Cutout Detail in Top Element (Sharpened for visibility) -->
+    <path d="M 0,-100 
+             C  12,-100  15,-122   0,-135 
+             C -15,-122 -12,-100   0,-100 Z" 
+          fill="#FFFFFF" />
+
+    <!-- Left Inner Dark Green Leaf -->
+    <path d="M -8,-60 
+             C -25,-60 -55,-15  -55,20 
+             C -35,15   -15,-5    -8,-60 Z" 
+          fill="#385723" />
+
+    <!-- Right Inner Dark Green Leaf -->
+    <path d="M 8,-60 
+             C  25,-60  55,-15   55,20 
+             C  35,15    15,-5     8,-60 Z" 
+          fill="#385723" />
+
+    <!-- Left Outer Cradle Leaf (With wider negative space gap) -->
+    <path d="M -73,-25 
+             C -70,25   -45,65    0,65 
+             C -55,60   -90,15   -90,-15 
+             C -90,-20  -82,-23  -73,-25 Z" 
+          fill="#385723" />
+
+    <!-- Right Outer Cradle Leaf (With wider negative space gap) -->
+    <path d="M  73,-25 
+             C  70,25    45,65    0,65 
+             C  55,60    90,15   90,-15 
+             C  90,-20   82,-23   73,-25 Z" 
+          fill="#385723" />
+  </g>
+</svg>
