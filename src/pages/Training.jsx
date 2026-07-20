@@ -16,22 +16,6 @@ function Training() {
   const upcomingTrainings = [
     {
       id: 1,
-      title: 'Digital Agriculture Fundamentals',
-      date: '2024-02-15',
-      location: 'Gikondo, Kigali',
-      excerpt: 'Learn the basics of digital agriculture and how technology can transform farming.',
-      image: '/images/training-digital.jpg'
-    },
-    {
-      id: 2,
-      title: 'IoT Applications in Agriculture',
-      date: '2024-02-22',
-      location: 'Eastern Province',
-      excerpt: 'Hands-on training on IoT sensors, data collection, and smart farming applications.',
-      image: '/images/training-iot.jpg'
-    },
-    {
-      id: 3,
       title: 'Agripreneurship Workshop',
       date: '2024-03-01',
       location: 'Kigali',
