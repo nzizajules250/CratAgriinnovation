@@ -21,7 +21,7 @@ function News() {
     date: '2024-01-20',
     author: 'John Mugisha',
     excerpt: 'The new initiative aims to connect 10,000 farmers with digital tools and resources to enhance agricultural productivity and sustainability.',
-    image: '/images/news-featured.jpg'
+    image: 'https://i.ibb.co/B5PsSPrc/Whats-App-Image-2026-07-20-at-2-42-10-PM.jpg'
   }
 
   const articles = [
@@ -32,16 +32,7 @@ function News() {
       date: '2024-01-18',
       author: 'Sarah Uwimana',
       excerpt: 'Farmers from across Rwanda gathered to learn about IoT-based irrigation systems and water conservation techniques.',
-      image: '/images/news-workshop.jpg'
-    },
-    {
-      id: 3,
-      title: 'Research on Climate-Resilient Crops Shows Promise',
-      category: 'Research',
-      date: '2024-01-15',
-      author: 'Dr. Jean Pierre',
-      excerpt: 'Early results from our climate-smart agriculture research indicate significant potential for drought-resistant crop varieties.',
-      image: '/images/news-research.jpg'
+      image: 'https://i.ibb.co/JwKgKL6s/CBG-19-jpg.jpg'
     },
     {
       id: 4,
@@ -50,25 +41,7 @@ function News() {
       date: '2024-01-12',
       author: 'Grace Uwimana',
       excerpt: 'Fifty young agripreneurs completed our intensive training program and are now starting their own agricultural businesses.',
-      image: '/images/news-graduation.jpg'
-    },
-    {
-      id: 5,
-      title: 'New Partnership with University of Rwanda Announced',
-      category: 'Announcements',
-      date: '2024-01-10',
-      author: 'John Mugisha',
-      excerpt: 'Collaboration to strengthen agricultural research and training programs across Rwanda.',
-      image: '/images/news-partnership.jpg'
-    },
-    {
-      id: 6,
-      title: 'IoT Sensors Deployed in 50 Farms Across Eastern Province',
-      category: 'Research',
-      date: '2024-01-08',
-      author: 'Dr. Jean Pierre',
-      excerpt: 'The deployment marks a significant milestone in our efforts to bring smart farming technologies to smallholder farmers.',
-      image: '/images/news-sensors.jpg'
+      image: 'https://i.ibb.co/rRw1F661/CBG-22-jpg.jpg'
     }
   ]
 
