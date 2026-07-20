@@ -95,7 +95,7 @@ export const NAV_LINKS = [
 export const SOCIAL_ICONS = [
   { icon: FaFacebook, href: '#' },
   { icon: FaTwitter, href: '#' },
-  { icon: FaLinkedin, href: '#' },
+  { icon: FaLinkedin, href: 'https://www.linkedin.com/in/jean-c-09804214b/' },
   { icon: FaYoutube, href: '#' },
   { icon: FaInstagram, href: '#' },
 ]
@@ -111,7 +111,7 @@ export const CONTACT_INFO = {
   social: {
     facebook: 'https://facebook.com/cbgagrihub',
     twitter: 'https://twitter.com/cbgagrihub',
-    linkedin: 'https://linkedin.com/company/cbgagrihub',
+    linkedin: 'https://www.linkedin.com/in/jean-c-09804214b/',
     youtube: 'https://youtube.com/cbgagrihub',
     instagram: 'https://instagram.com/cbgagrihub',
   }

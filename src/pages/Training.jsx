@@ -36,7 +36,7 @@ function Training() {
       date: '2024-03-01',
       location: 'Kigali',
       excerpt: 'Business development and entrepreneurship training for agricultural innovators.',
-      image: '/images/training-entrepreneurship.jpg'
+      image: 'https://i.ibb.co/JwKgKL6s/CBG-19-jpg.jpg'
     }
   ]
 
@@ -52,7 +52,7 @@ function Training() {
       <section ref={ref1} className="section-padding">
         <div className="container-custom">
           <SplitSection 
-            image="https://i.ibb.co/V0xJx7js/Chat-GPT-Image-Jul-20-2026-09-59-16-AM.png"
+            image="https://i.ibb.co/B5PsSPrc/Whats-App-Image-2026-07-20-at-2-42-10-PM.jpg"
             imageAlt="Training Session"
             imagePosition="right"
           >

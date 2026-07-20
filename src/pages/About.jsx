@@ -37,7 +37,7 @@ function About() {
       <section ref={ref1} className="section-padding">
         <div className="container-custom">
           <SplitSection 
-            image="https://i.ibb.co/LzTQN74C/Gemini-Generated-Image-3clvoz3clvoz3clv.png"
+            image="https://i.ibb.co/rRw1F661/CBG-22-jpg.jpg"
             imageAlt="CBG Campus"
             imagePosition="right"
           >
@@ -47,7 +47,7 @@ function About() {
             </h2>
             <p className="text-text-body mb-4">
               CBG Agri Innovation Hub is a premier agricultural technology and innovation center 
-              based at College Baptiste GACUBA (CBG) in Gikondo, Kigali, Rwanda. We are dedicated 
+              based at College Baptiste GACUBA (CBG) in Gisenyi, Rubavu, Rwanda. We are dedicated 
               to transforming agriculture by bridging the gap between technology and farming communities.
             </p>
             <p className="text-text-body mb-4">

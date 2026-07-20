@@ -39,7 +39,7 @@ function WhatWeDo() {
       <section ref={ref1} className="section-padding">
         <div className="container-custom">
           <SplitSection 
-            image="https://i.ibb.co/5gXtG5Fm/Gemini-Generated-Image-p04uf4p04uf4p04u.png"
+            image="https://i.ibb.co/JwKgKL6s/CBG-19-jpg.jpg"
             imageAlt="Digital Agriculture"
             imagePosition="right"
           >
@@ -84,7 +84,7 @@ function WhatWeDo() {
       <section ref={ref3} className="section-padding">
         <div className="container-custom">
           <SplitSection 
-            image="/images/research-innovation.jpg"
+            image="https://i.ibb.co/JwKgKL6s/CBG-19-jpg.jpg"
             imageAlt="Research and Innovation"
             imagePosition="left"
           >
