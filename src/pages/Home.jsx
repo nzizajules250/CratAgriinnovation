@@ -242,7 +242,7 @@ function Home() {
                   <div className="absolute inset-0 -m-5 rounded-[2rem] border border-white/10" />
                   <div className="relative rounded-[1.5rem] border border-white/15 bg-white/5 p-2">
                     <img
-                      src="/images/imara-mockup.png"
+                      src="https://i.ibb.co/TMxdPDVJ/images.png"
                       alt="IMARA Platform Mobile App"
                       className="w-full h-auto rounded-[1.1rem]"
                     />
